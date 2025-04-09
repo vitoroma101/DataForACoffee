@@ -5,6 +5,7 @@ Want access? Support my work by buying me a coffee!
 ## Available Datasets  
 - **My Shazam Data** 🎵 (Historical music recognition logs, **2019 to date**)
 - **My Dream League Soccer (DLS) data** ⚽ (Personal match history & stats, **2023 to date**)
+- **My Zepp Data** ⌚ (General health metrics from Amazfit GTS 2, **2022 to date**)  
 - **Exclusive datasets** launching soon 🔥 (request early access!).  
 
 ### Steps to unlock access:  
